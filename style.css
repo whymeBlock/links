@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 35px;
+    height: 35px;
+}
+
+a {
+    text-decoration: none !important;
+    color: #1b1e21 !important;
+}
+
+a:hover {
+    color: #007bff !important;
+}
